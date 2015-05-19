@@ -1,0 +1,27 @@
+<publishData>
+  <publishTarget publishUrl="D:\待更新暫存區\WexinTest\">
+    <file relUrl="bin/log4net.dll" publishTime="11/18/2013 05:51:38" />
+    <file relUrl="css/font-awesome.css" publishTime="05/08/2015 07:41:01" />
+    <file relUrl="jsonnet/Newtonsoft.Json.dll" publishTime="05/07/2015 10:07:49" />
+    <file relUrl="WexinValid.ashx" publishTime="05/05/2015 14:56:12" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="05/07/2015 10:07:49" />
+    <file relUrl="WMS.aspx" publishTime="05/08/2015 16:33:00" />
+    <file relUrl="Web.config" publishTime="05/07/2015 08:34:44" />
+    <file relUrl="bin/WexinTest.dll" publishTime="05/08/2015 16:18:27" />
+    <file relUrl="script/bootstrap.min.js" publishTime="05/08/2015 16:02:49" />
+    <file relUrl="log4net.config" publishTime="05/05/2015 15:26:50" />
+    <file relUrl="jsonnet/Newtonsoft.Json.pdb" publishTime="05/07/2015 10:07:49" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="05/07/2015 10:07:49" />
+    <file relUrl="Global.asax" publishTime="05/05/2015 15:32:31" />
+    <file relUrl="css/bootstrap.min.css" publishTime="05/08/2015 07:39:40" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="05/07/2015 10:07:49" />
+    <file relUrl="bin/WexinTest.pdb" publishTime="05/08/2015 16:18:27" />
+    <file relUrl="WeChatConn.ashx" publishTime="05/05/2015 13:56:50" />
+    <file relUrl="Default.aspx" publishTime="05/05/2015 13:55:49" />
+    <file relUrl="bin/log4net.xml" publishTime="05/05/2015 15:26:50" />
+    <file relUrl="jsonnet/Newtonsoft.Json.xml" publishTime="05/07/2015 10:07:49" />
+    <file relUrl="font/fontawesome-webfont.svg" publishTime="05/08/2015 08:11:37" />
+    <file relUrl="GeneralMsg.ashx" publishTime="05/06/2015 08:07:18" />
+    <file relUrl="log4net/log4net.dll" publishTime="11/18/2013 05:51:38" />
+  </publishTarget>
+</publishData>

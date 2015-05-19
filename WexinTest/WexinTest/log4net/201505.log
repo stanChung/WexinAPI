@@ -1,0 +1,33 @@
+Start Validation
+signature=567C7B5FC759FAFD23271EDB30D3133FC3E31543
+timestamp=123
+nonce=789
+echostr=aabbcc
+
+SHA1:d086bd6f3f8802d49b1e7c9e7fb36dd936e46a6f
+
+Validation result¡GFalse
+
+----------------------------------------------------------------------------------------------
+Start Validation
+signature=d086bd6f3f8802d49b1e7c9e7fb36dd936e46a6f
+timestamp=123
+nonce=789
+echostr=aabbcc
+
+SHA1:d086bd6f3f8802d49b1e7c9e7fb36dd936e46a6f
+
+Validation result¡GTrue
+
+----------------------------------------------------------------------------------------------
+Start Validation¡G2015/05/05 16:58:41
+signature=d086bd6f3f8802d49b1e7c9e7fb36dd936e46a6f
+timestamp=123
+nonce=789
+echostr=aabbcc
+
+SHA1:d086bd6f3f8802d49b1e7c9e7fb36dd936e46a6f
+
+Validation result¡GTrue
+
+----------------------------------------------------------------------------------------------
